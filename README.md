@@ -74,6 +74,9 @@ Create a Linux server instance through [Amazon Lightsail](https://lightsail.aws.
 4. Select an instance plan. (1st Month on bottom tier is free)
 5. Create a name for your instance and click **Create Instance**
 
+**Created Instance:**
+
+![alt text](https://github.com/mbasith/Project-Linux-Server-Configuration/blob/master/images/aws_instance.png)
 
 ## Update Server Software
 
