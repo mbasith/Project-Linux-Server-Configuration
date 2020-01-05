@@ -35,6 +35,7 @@ Step-by-step instructions to configure the linux server and deploy the web appli
 **Server Info:**
 
 Server Public IP: 54.145.30.90<br>
+SSH Port: 2200<br>
 Web Application URL: [http://54.145.30.90](http://54.145.30.90 ) 
 
 
@@ -717,7 +718,8 @@ Requirements File:
 
 1. Launch WebApp URL
 
-Server Public IP: 54.145.30.90 
+Server Public IP: 54.145.30.90<br>
+SSH Port: 2200<br>
 Web Application URL: [http://54.145.30.90](http://54.145.30.90 ) 
 
 
