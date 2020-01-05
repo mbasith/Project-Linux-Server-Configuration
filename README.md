@@ -7,22 +7,22 @@
 1. [Description](#Description)<br>
 2. [Design](#Design)<br>
 3. [Prerequisites](#Prerequisites)<br>
-4. [InstantiateLinuxServer](#InstantiateLinuxServer)<br>
-5. [Update Server Software](#Update Server Software)<br>
-6. [Set Server DateTime](#Set Server DateTime)<br>
-7. [SSH over Custom Port](#SSH over Custom Port)<br>
-8. [Configure UFW Firewall](#Configure UFW Firewall)<br>
-9. [Add User](#Add User)<br>
-10. [Create SSH Keys](#Create SSH Keys)<br>
-11. [Disable Password Login](#Disable Password Login)<br>
-12. [Disable Remote Root Login](#Disable Remote Root Login)<br>
-13. [Install Python3.6](#Install Python3.6)<br>
-14. [Install Python Packages](#Install Python Packages)<br>
-15. [Install PostgresSQL](#Install PostgresSQL)<br>
-16. [Install Apache2](#Install Apache2)<br>
-17. [Deploy Web Application](#Deploy Web Application)<br>
-18. [Configure Google OAuth](#Configure Google OAuth)<br>
-19. [Verify Web Application is Running](#Verify Web Application is Running)<br>
+4. [Instantiate Linux Server](#Instantiate-Linux-Server)<br>
+5. [Update Server Software](#Update-Server-Software)<br>
+6. [Set Server DateTime](#Set-Server-DateTime)<br>
+7. [SSH over Custom Port](#SSH-over-Custom-Port)<br>
+8. [Configure UFW Firewall](#Configure-UFW-Firewall)<br>
+9. [Add User](#Add-User)<br>
+10. [Create SSH Keys](#Create-SSH-Keys)<br>
+11. [Disable Password Login](#Disable-Password-Login)<br>
+12. [Disable Remote Root Login](#Disable-Remote-Root-Login)<br>
+13. [Install Python3.6](#Install-Python3.6)<br>
+14. [Install Python Packages](#Install-Python-Packages)<br>
+15. [Install PostgresSQL](#Install-PostgresSQL)<br>
+16. [Install Apache2](#Install-Apache2)<br>
+17. [Deploy Web Application](#Deploy-Web-Application)<br>
+18. [Configure Google OAuth](#Configure-Google-OAuth)<br>
+19. [Verify Web Application is Running](#Verify-Web-Application-is-Running)<br>
 20. [Debugging](#Debugging)<br>
 
 ## Description
@@ -64,7 +64,7 @@ To deploy this web application the following prerequisites must be met:
 3. Google Developer Client-ID for OAuth configuration
 
 
-## InstantiateLinuxServer
+## Instantiate Linux Server
 
 Create a Linux server instance through [Amazon Lightsail](https://lightsail.aws.amazon.com/ls/webapp/create/)
 
