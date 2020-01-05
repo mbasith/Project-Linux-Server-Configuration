@@ -7,7 +7,7 @@
 1. [Description](#Description)<br>
 2. [Design](#Design)<br>
 3. [Prerequisites](#Prerequisites)<br>
-4. [InstantiateLinuxServer](#Instantiate Linux Server)<br>
+4. [InstantiateLinuxServer](#InstantiateLinuxServer)<br>
 5. [Update Server Software](#Update Server Software)<br>
 6. [Set Server DateTime](#Set Server DateTime)<br>
 7. [SSH over Custom Port](#SSH over Custom Port)<br>
