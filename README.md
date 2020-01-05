@@ -125,6 +125,11 @@ Enable custom TCP port 2200 for SSH
 4. Add **Application** Custom, **Protocol** TCP and **Port Range** 2200
 5. Save Firewall configuration
  
+ **Firewall Configuration:**
+
+![alt text](https://github.com/mbasith/Project-Linux-Server-Configuration/blob/master/images/aws_instance_fw.png)
+
+ 
 ## Configure UFW Firewall
 
 Configure Uncomplicated Firewall (UFW) to allow traffic from TCP port 2200 (SSH), TCP port 80 (HTTP), and UDP port 123 (NTP)
